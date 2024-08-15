@@ -1,4 +1,4 @@
-# Skate-park-designs-
+# Skate-park-designs by Sketchplay playground Archiects -
 We design skateparks and pump tracks for recreational supply copmanies
 ## Skate Park Design
 ![Skate Park Design](https://github.com/Sketchplay-Playground-Architects/Sports-Fitness-designs/blob/main/Skate%20Park%20Design.jpg)
